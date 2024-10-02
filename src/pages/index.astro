@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
+      <h1>Welcome!</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -42,20 +42,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        Artorias Devlog is a personal space where I share my journey through the worlds of programming, gaming, and game development. Here, you'll find insights into the projects I'm working on, as well as reflections on the lessons I’ve learned—and the ones I’m still discovering. This blog is also a place for me to share my thoughts, experiences, and musings about life itself. Whether you’re interested in game dev, learning new skills, or just looking for a fresh perspective, I hope you’ll find something valuable here.
       </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
+
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
