@@ -35,5 +35,5 @@ Let’s build, learn, and game together!
 
 ---
 
-**Author**: [Jeromino]  
+**Author**: Jeromino  
 **Blog**: [Artorias Devlog](#)  
