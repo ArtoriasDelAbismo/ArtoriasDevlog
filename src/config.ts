@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://artorias-devlog.netlify.app/", // replace this with your deployed domain
   author: "Jeromino",
-  profile: "https://satnaing.dev/",
+  profile: "https://jeronimojournade.com/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "<ArtoriasDevlog />",
   ogImage: "astropaper-og.jpg",
