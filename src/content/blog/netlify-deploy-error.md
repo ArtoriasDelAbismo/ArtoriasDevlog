@@ -1,7 +1,6 @@
 ---
 author: Jeromino
 pubDatetime: 2024-10-07T09:10:00Z
-modDatetime: 2024-10-07T09:10:00Z
 title: Netlify deploy error
 slug: netlify-deploy-error
 featured: true
