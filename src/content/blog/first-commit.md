@@ -1,7 +1,6 @@
 ---
 author: Jeromino
 pubDatetime: 2024-10-04T18:46:00Z
-modDatetime: 2024-10-04T18:46:00Z
 title: First Commit
 slug: first-commit
 featured: true
