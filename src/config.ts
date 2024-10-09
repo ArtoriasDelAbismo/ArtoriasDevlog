@@ -4,12 +4,12 @@ export const SITE: Site = {
   website: "https://artorias-devlog.netlify.app/", // replace this with your deployed domain
   author: "Jeromino",
   profile: "https://jeronimojournade.com/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "My personal blog.",
   title: "<ArtoriasDevlog />",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 4,
+  postPerIndex: 5,
+  postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 
