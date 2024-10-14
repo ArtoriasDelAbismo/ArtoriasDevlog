@@ -3,5 +3,5 @@
   command = "bash ./build.sh" # Or whatever your build command is (e.g., "npm run build")
 
 
-[[build.environment]]
+[build.environment]
   GIT_LFS_FETCH_INCLUDE = "*"
