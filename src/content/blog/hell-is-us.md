@@ -28,4 +28,4 @@ Even though the developers have stated that it’s not a souls-like game, Hell i
 
 Personally, I have high hopes for this one. It’s definitely a title I’ll be keeping a close eye on. With its unique approach to storytelling and gameplay, Hell is Us could be a breath of fresh air in an increasingly crowded genre. Stay tuned for updates, because this is a game you won’t want to miss!
 
-<video src="https://res.cloudinary.com/dstfpu5vw/video/upload/v1728991109/hell-is-us_1_t6qhnm.mp4"><video>
+<video src="https://res.cloudinary.com/dstfpu5vw/video/upload/v1728991109/hell-is-us_1_t6qhnm.mp4" controls><video>
