@@ -14,7 +14,7 @@ description:
 ---
 
 
-![something](https://res.cloudinary.com/dstfpu5vw/image/upload/v1728990911/hell-is-us-3-1024x576_jay6c4.jpg)
+<img src="/src/assets/images/hell-is-us-images/HiU_Screenshot_4.jpg">
 
 # Hell is Us: A Refreshing Take on Semi Open-World Games
 How refreshing is it to see a clean HUD for a change? No quest pointers, no map overflowing with markers, just you, your instincts, and the world around you. When I saw the first gameplay of Hell is Us, I was pleasantly surprised by how immersive it seemed. In a time where open-world games are often criticized for being vast but lacking meaningful content, Hell is Us offers a promising alternative: a semi-open world crafted with care, attention to detail, and patience.
