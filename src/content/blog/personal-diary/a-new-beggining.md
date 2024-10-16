@@ -4,7 +4,7 @@ pubDatetime: 2024-10-04T18:46:00Z
 title: A new Begining
 slug: a-new-begining
 featured: true
-draft: false
+draft: true
 tags:
   - docs
   - gaming
