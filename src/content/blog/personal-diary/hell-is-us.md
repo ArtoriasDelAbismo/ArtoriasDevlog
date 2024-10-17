@@ -3,7 +3,7 @@ author: Jeromino
 pubDatetime: 2024-10-09T07:45:00Z
 title: Hell is us
 slug: hell-is-us
-featured: true
+featured: false
 draft: false
 tags:
   - gaming
