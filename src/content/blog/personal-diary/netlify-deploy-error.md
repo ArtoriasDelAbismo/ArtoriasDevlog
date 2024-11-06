@@ -1,7 +1,7 @@
 ---
 author: Jeromino
 pubDatetime: 2024-10-07T09:10:00Z
-title: Netlify deploy error
+title: Netlify deploy error 💻
 slug: netlify-deploy-error
 featured: true
 draft: false
@@ -15,8 +15,10 @@ description:
 
 
 
-# Struggling with Netlify Deployment? You’re Not Alone.
-Are you struggling with deploying your app on Netlify? Trust me, I've been there too. Everything was running smoothly on my site until I decided to update a simple .jpg file. After pushing the changes to production, I noticed that the site wasn’t reflecting my updates. Checking Netlify revealed a deploy failure with an error message that looked something like this:
+# Struggling with Netlify Deployment? Yeah, me too 😪.
+Are you struggling with deploying your app on Netlify? It's embarrasing but i spent a few days trying to fix this.
+
+Everything was running smoothly on my site until I decided to update a simple .jpg file. After pushing the changes to production, I noticed that the site wasn’t reflecting my updates. Checking Netlify revealed a deploy failure with an error message that looked something like this:
 
 ```bash
 7:39:02 AM: Failed to compile.
@@ -46,7 +48,7 @@ After searching online, I found several discussions about similar problems. Than
 Turns out, filenames and paths are case-sensitive on Netlify’s servers, which means an image file named ``pixelMe.jpg`` is different from ``pixelme.jpg`` or ``PixelMe.jpg``. In my local development environment, this discrepancy might have been ignored, but when Netlify deployed the site, it couldn’t find the file due to the name being in camelcase. Changed the name of the file from ``pixelMe.jpg`` to ``pixelme.jpg`` and ta dah! Site deployed succesfully.
 
 ## Why Does This Happen?
-If you work on Windows or OSX (mac), you are working on a ``case-insensitive`` system. The file system used in Netlify builds is case sensitive, while your local environment is not. Unfortunately, the error messages that result may not clearly indicate this!
+If you work on Windows or OSX (mac), you are working on a ``case-insensitive`` system. The file system used in Netlify builds is case sensitive, while your local environment is not. Unfortunately, the error messages that result may not clearly indicate this.
 
 Meaning: if your code includes a file or reference to a file like ``jQuery/jquery.js`` — the Netlify build may fail due to the mixed case filename. This issue can be present with ANY file that is an important part of your project, including, but not limited to:
 

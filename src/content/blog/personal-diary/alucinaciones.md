@@ -1,7 +1,7 @@
 ---
 author: Jeromino
 pubDatetime: 2024-10-17T9:12:00Z
-title: Alucinaciones?
+title: Alucinaciones? 😪
 slug: alucinaciones
 featured: false
 draft: false

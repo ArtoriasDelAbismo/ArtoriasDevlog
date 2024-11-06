@@ -1,7 +1,7 @@
 ---
 author: Jeromino
 pubDatetime: 2024-10-04T18:46:00Z
-title: First Commit
+title: First Commit 🚩 -- Secure Shell Access denied 💻
 slug: first-commit
 featured: true
 draft: false

@@ -1,7 +1,7 @@
 ---
 author: Jeromino
 pubDatetime: 2024-10-26T07:00:00Z
-title: Stop and Recalibrate
+title: Stop and Recalibrate 🧭
 slug: stop-and-recalibrate
 featured: true
 draft: false
