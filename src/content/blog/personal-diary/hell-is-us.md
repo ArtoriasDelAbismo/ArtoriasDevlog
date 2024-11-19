@@ -20,7 +20,7 @@ description:
 ##
 
 # Hell is Us: A Different Take on Semi Open-World Games
-How refreshing is it to see a clean HUD for a change? No quest pointers, no map overflowing with markers, just you, your instincts, and the world around you. When I saw the first gameplay of Hell is Us, I was pleasantly surprised by how immersive it seemed. In a time where open-world games are often criticized for being vast but lacking meaningful content, Hell is Us offers a promising alternative: a semi-open world crafted with care, attention to detail, and patience.
+How refreshing it is to see a clean HUD for a change? No quest pointers, no map overflowing with markers, just you, your instincts, and the world around you. When I saw the first gameplay of Hell is Us, I was pleasantly surprised by how immersive it seemed. In a time where open-world games are often criticized for being vast but lacking meaningful content, Hell is Us offers a promising alternative: a semi-open world crafted with care, attention to detail, and patience.
 
 [Hell is Us](https://store.steampowered.com/app/1620730/Hell_is_Us/) is an upcoming 3rd-person action-adventure game set to release some time in 2025 and developed by Rogue Factor, with a focus on exploration and melee combat. The game’s narrative follows Remi, a man returning to his birthplace, Hadea—a country isolated from the world and ravaged by civil war. In this dark, fictional world, Remi searches for answers about his past, confronting both the terrors of war and supernatural forces that haunt his homeland.
 
